@@ -25,7 +25,7 @@ class DataProcessor:
 
     def read_data_file(self):
         """Reads file and pre-processes data for logic implementation"""
-        with open('data_sample', 'r') as ins:
+        with open('sample_input', 'r') as ins:
             for line in ins:
                 self.line_processor(line)
         return array
