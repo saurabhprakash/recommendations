@@ -25,6 +25,6 @@ scipy (0.18.0)
 
 setuptools (18.0.1)
 
-sklearn (0.0)
+sklearn 
 
 wheel (0.24.0)
