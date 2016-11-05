@@ -28,3 +28,8 @@ setuptools (18.0.1)
 sklearn 
 
 wheel (0.24.0)
+
+Understanding Input data : <id>###<string>###<tags list>
+	id: is unique id for element
+	string: string whose similarity needs to be calculated
+	tags list: tags associated if any
